@@ -1,5 +1,5 @@
 # app.py
-# Simple Study Time Tracker Program
+# Simple Gaming Time Tracker Program
 # This program asks the user for daily gaming hours, performs a calculation,
 # and includes basic error handling.
 
